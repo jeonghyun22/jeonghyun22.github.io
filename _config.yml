@@ -217,7 +217,7 @@ defaults:
         - scope:
       path: "assets/image"
       values:
-      image:true
+      image: true
 
 
 ## => Plugins
